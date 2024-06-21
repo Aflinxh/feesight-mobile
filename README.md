@@ -1,28 +1,19 @@
-## ScanCare
+## Feesight
+https://github.com/Aflinxh/feesight-mobile/assets/86412842/3b1ebc5f-4f75-4bb1-a5f2-90583d250702
 
-<p align="center">
-  <img width="240" src="">
-</p>
-
-You can also click [this](https://drive.google.com/file/d/1tsu883Emsm0NK-eQVPzZJIhnBRNnX199/view?usp=sharing) to watch the demo
-
+You can also click [this](https://drive.google.com/file/d/1r2gEJRvFuv00FjiMbEddE3i1v5QgproX/view?usp=drivesdk) to watch the demo
 
 ## How to install 🔧
-Clone this repository and import into **Android Studio**
+Clone this repository and import into *Android Studio*
 ```bash
-git clone https://github.com/ScanCareApp/ScanCare.git
+git clone https://github.com/Feesight/Feesight.git
 ```
-
-## Local Properties Configuration 🧑‍💻
-### Keystores:
-Create `local.properties` with the following info:
-```properties
-
-sdk.dir=<sdk_location>
-
-```
+Sync gradle & build
 
 ## Developer 👷‍♀
 This project developed by:
-* [Ni Luh Anggita Gayatri](https://github.com/AnggitaGayatri)
-* [Zakiansyah](https://github.com/zakiansyah)
+* [Riza Fauzil Adzim Manziz](https://github.com/Riza666)
+* [Tiara Salsabila](https://github.com/tiarasalsabilaa)
+
+## Other contributor 🛠️
+* [Alfin Gusti Alamsyah](https://github.com/Aflinxh)
